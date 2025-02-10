@@ -1,6 +1,6 @@
 # Hi there, I'm Pummy04! 👋  
 🚀 Passionate about Data Science, Machine Learning & AI  
-🎓 Final-year BTech Student | Data Science Enthusiast  
+🎓 Third-year BTech Student | Data Science Enthusiast  
 💻 Love working with Python, Flask, Pandas, and AI models  
 
 ## 🔹 About Me  
